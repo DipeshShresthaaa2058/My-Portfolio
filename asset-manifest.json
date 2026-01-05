@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/DipeshShresthaaa2058/My-Portfolio.git/static/css/main.039bf95e.css",
-    "main.js": "/DipeshShresthaaa2058/My-Portfolio.git/static/js/main.68f82339.js",
-    "static/media/Hello.gif": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/autocad.png": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/autocad.76e8b6afe2c04257812a.png",
-    "static/media/Dipesh Shrestha Resume.pdf": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/Dipesh Shrestha Resume.5f40becadcb9e8a4d60a.pdf",
-    "static/media/sketchup.png": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/sketchup.5572ee0a796b1fb91889.png",
-    "static/media/civil.png": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/civil.f678fbfa9b472bd5d702.png",
-    "static/media/DipeshShrestha.webp": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/DipeshShrestha.f4cd2802bbe8ddbb248a.webp",
-    "static/media/etabs.png": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/etabs.6f4115340dd4a38efc7d.png",
-    "static/media/excel.png": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/excel.3a5a8211fb5f758c86bf.png",
-    "static/media/whatsapp.svg": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
-    "static/media/instagram.svg": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
-    "index.html": "/DipeshShresthaaa2058/My-Portfolio.git/index.html",
-    "static/media/phone-icon.svg": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
-    "static/media/email-icon.svg": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/email-icon.a83578f914460e952501546655b76165.svg",
-    "static/media/linkedin.svg": "/DipeshShresthaaa2058/My-Portfolio.git/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
-    "main.039bf95e.css.map": "/DipeshShresthaaa2058/My-Portfolio.git/static/css/main.039bf95e.css.map",
-    "main.68f82339.js.map": "/DipeshShresthaaa2058/My-Portfolio.git/static/js/main.68f82339.js.map"
+    "main.css": "/My-Portfolio/static/css/main.e016d95c.css",
+    "main.js": "/My-Portfolio/static/js/main.6a903427.js",
+    "static/media/Hello.gif": "/My-Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/autocad.png": "/My-Portfolio/static/media/autocad.76e8b6afe2c04257812a.png",
+    "static/media/Dipesh Shrestha Resume.pdf": "/My-Portfolio/static/media/Dipesh Shrestha Resume.5f40becadcb9e8a4d60a.pdf",
+    "static/media/sketchup.png": "/My-Portfolio/static/media/sketchup.5572ee0a796b1fb91889.png",
+    "static/media/civil.png": "/My-Portfolio/static/media/civil.f678fbfa9b472bd5d702.png",
+    "static/media/DipeshShrestha.webp": "/My-Portfolio/static/media/DipeshShrestha.f4cd2802bbe8ddbb248a.webp",
+    "static/media/etabs.png": "/My-Portfolio/static/media/etabs.6f4115340dd4a38efc7d.png",
+    "static/media/excel.png": "/My-Portfolio/static/media/excel.3a5a8211fb5f758c86bf.png",
+    "static/media/whatsapp.svg": "/My-Portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/instagram.svg": "/My-Portfolio/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "index.html": "/My-Portfolio/index.html",
+    "static/media/phone-icon.svg": "/My-Portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/My-Portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/linkedin.svg": "/My-Portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.e016d95c.css.map": "/My-Portfolio/static/css/main.e016d95c.css.map",
+    "main.6a903427.js.map": "/My-Portfolio/static/js/main.6a903427.js.map"
   },
   "entrypoints": [
-    "static/css/main.039bf95e.css",
-    "static/js/main.68f82339.js"
+    "static/css/main.e016d95c.css",
+    "static/js/main.6a903427.js"
   ]
 }
